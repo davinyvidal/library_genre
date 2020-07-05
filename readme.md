@@ -4,7 +4,7 @@ Esse método é muito prático e funciona com simples comando. veja a documenta�
 
 * [Site do Projeto](http://davinyvidal.divulgue.info/library_genre/)
   
-* [Documentação](http://davinyvidal.divulgue.info/library_genre/doc)
+* [Documentação](http://davinyvidal.divulgue.info/library_genre/#documenta%C3%A7%C3%A3o)
 
 
 
